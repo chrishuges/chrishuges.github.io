@@ -1,10 +1,9 @@
 ---
+title: "Wet lab protocols"
 permalink: /protocols/
 layout: single
 author_profile: true
 ---
-
-# Wet lab protocols <!-- omit in toc -->
 
 Descriptive protocols for different types of wet-lab experiments. PDF versions of all protocols are available for download in the same directory where the protocol is found. For protocols with code blocks, the PDF version may have some of the code cut off for long lines, so I suggest you refer to the markdown version in these cases.
 

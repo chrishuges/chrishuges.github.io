@@ -5,5 +5,7 @@ main:
     url: /categories/
   - title: "Protocols"
     url: /protocols/
+  - title: "Manuscripts"
+    url: /manuscripts/
   - title: "About"
     url: /about/
