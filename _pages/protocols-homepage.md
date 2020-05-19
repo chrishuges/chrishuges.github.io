@@ -13,7 +13,7 @@ Descriptive protocols for different types of wet-lab experiments. PDF versions o
 
 <hr style="height:6pt; visibility:hidden;" />
 
-## Quick links <!-- omit in toc -->
+### Quick links <!-- omit in toc -->
 
 - [Related to proteomics](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToProteomics)
   - [Media preparation for SILAC](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/silacMetabolicLabelingCultureMediaPreparation.md)
@@ -31,6 +31,6 @@ Descriptive protocols for different types of wet-lab experiments. PDF versions o
 
 <hr style="height:6pt; visibility:hidden;" />
 
-## Troubleshooting
+### Troubleshooting
 
 While these protocols have been validated to work in my hands, use at your own risk. If you have any issues or notice errors in anything that you find here, feel free to make a post in the wet lab protocols [Issues](https://github.com/chrishuges/wetLabProtocols/issues) and I will do my best to address it.
