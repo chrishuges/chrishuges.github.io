@@ -17,16 +17,20 @@ Descriptive protocols for different types of wet-lab experiments. PDF versions o
 
 - [Related to proteomics](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToProteomics)
   - [Media preparation for SILAC](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/silacMetabolicLabelingCultureMediaPreparation.md)
-  - [Preparation of BSA chromatography and MS standard](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/preparationOfBsaStandardForMassSpectrometry.md)
+  - [Preparation of BSA chromatography and MS standard](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/preparationOfHelaStandardForMassSpectrometry.md)
+  - [Preparation of a HeLa chromatography and MS standard](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/preparationOfBsaStandardForMassSpectrometry.md)
   - [In gel digestion for protein identification](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/inGelDigestionForProteinIdentification.md)
+  - [Preparation of immunoprecipitation samples for MS analysis](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/immunoprecipitationPreparationForMassSpectrometry.md)
   - [SP3 protein clean-up](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/sp3ProteinCleanup.md)
   - [TMT labeling of peptides](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/tandemMassTagLabelingOfPeptides.md)
   - [TopTip desalting of peptides](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/topTipPeptideCleanup.md)
+  - [SlitPlate desalting of peptides](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/slitPlatePeptideCleanup.md)
   - [Packing nanospray chromatography columns](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/packingNanosprayChromatographyColumns.md)
   - [Total proteome analysis by mass spectrometry](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/totalProteomeAnalysisByMassSpectrometry.md)
 - [Related to Next Generation Sequencing](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToNextGenSequencing)
   - [Preparing homemade SPRI/Ampure beads](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToNextGenSequencing/preparingSpriBeads.md)
   - [RNA profiling from total polysomes](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToNextGenSequencing/polysomeProfilingRna.md)
+  - [RBP interaction profiling with CLIP](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToNextGenSequencing/meClipRbpInteractionProfiling.md)
 - [Troubleshooting](#troubleshooting)
 
 <hr style="height:6pt; visibility:hidden;" />
