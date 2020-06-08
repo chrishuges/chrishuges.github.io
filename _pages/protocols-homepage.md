@@ -46,6 +46,7 @@ In most of these protocols I use R, but sometimes I use Python. Usually, the Pyt
 
 - [Related to Published Data](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToPublishedData)
   - [Retrieve array data from GEO and do a survival analysis](/assets/getGeoDataForSurvivalAnalysis.nb.html)
+  - [Retrieve and analyze CRISPR dependency data from DepMap](/assets/getCrisprDependencyDataDepMap.nb.html)
 - [Related to Proteomics](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToProteomics)
 - [Related to Next Generation Sequencing](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToNextGenSequencing)
 
