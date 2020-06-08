@@ -43,7 +43,7 @@ While these protocols have been validated to work in my hands, use at your own r
 
 ## Dry lab protocols <!-- omit in toc -->
 
-Descriptive protocols for different types of dry-lab processes. The links below will send you directly to the RNotebook html version of the protocol. If you would like to download the R document to your own machine and follow along, simply open the RNotebook html by clicking the link, and click the 'Download Rmd' button in the top right corner. You can open this downloaded Rmd file in RStudio (or another text editor). If there is a supplemental text file associated with the protocol, it can usually be found on the actual [GitHub page for that protocol]().
+Descriptive protocols for different types of dry-lab processes. The links below will send you directly to the RNotebook html version of the protocol. If you would like to download the R document to your own machine and follow along, simply open the RNotebook html by clicking the link, and click the 'Download Rmd' button in the top right corner. You can open this downloaded Rmd file in RStudio (or another text editor). If there is a supplemental text file associated with the protocol, it can usually be found on the actual [GitHub page for that protocol](https://github.com/chrishuges/protocolsDryLab).
 
 In most of these protocols I use R, but sometimes I use Python. Usually, the Python code is used directly in the RNotebook using the reticulate package. In these instances, I do my best to detail my choice for one vs. the other, and what I am doing.
 
