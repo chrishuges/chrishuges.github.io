@@ -43,9 +43,9 @@ While these protocols have been validated to work in my hands, use at your own r
 
 ## Dry lab protocols <!-- omit in toc -->
 
-Descriptive protocols for different types of dry-lab processes. The majority of the files are provided as R notebook html files, for ease of visualization. However, Rmd files are provided for all tutorials that can be downloaded and opened on your own machine to follow along if you would like. To download one of the Rmd files, simply navigate to the top level directory for the protocol you are interested in, click on the Rmd file you would like to download, click the 'Raw' button on the file that appears, and right click and hit 'Save As' on the new page that opens. Save the file as an Rmd file and open in RStudio.
+Descriptive protocols for different types of dry-lab processes. The links below will send you directly to the RNotebook html version of the protocol. If you would like to download the R document to your own machine and follow along, simply open the RNotebook html by clicking the link, and click the 'Download Rmd' button in the top right corner. You can open this downloaded Rmd file in RStudio (or another text editor). If there is a supplemental text file associated with the protocol, it can usually be found on the actual [GitHub page for that protocol]().
 
-In most of these protocols I use R, but some use Python (sometimes in the same notebook). In these instances, I do my best to detail my choice for one vs. the other, and what I am doing.
+In most of these protocols I use R, but sometimes I use Python. Usually, the Python code is used directly in the RNotebook using the reticulate package. In these instances, I do my best to detail my choice for one vs. the other, and what I am doing.
 
 ### Dry lab protocols quick links <!-- omit in toc -->
 
