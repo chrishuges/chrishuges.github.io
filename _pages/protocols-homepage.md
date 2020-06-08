@@ -11,8 +11,6 @@ Descriptive protocols for different types of wet-lab experiments. PDF versions o
 
 **FOR ALL PROTOCOLS** - refer to the health and safety guidelines of your own institute, as well as the MSDS documents for the described chemicals before use. Some of the chemicals and objects used are dangerous and should be handled with caution.
 
-<hr style="height:6pt; visibility:hidden;" />
-
 ### Quick links <!-- omit in toc -->
 
 - [Related to proteomics](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToProteomics)
