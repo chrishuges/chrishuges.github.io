@@ -13,7 +13,7 @@ Descriptive protocols for different types of wet-lab experiments. PDF versions o
 
 <hr style="height:6pt; visibility:hidden;" />
 
-### Wet lab protocols quick links <!-- omit in toc -->
+### Quick links <!-- omit in toc -->
 
 - [Related to proteomics](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToProteomics)
   - [Media preparation for SILAC](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToProteomics/silacMetabolicLabelingCultureMediaPreparation.md)
@@ -44,7 +44,7 @@ Descriptive protocols for different types of dry-lab processes. The links below 
 
 In most of these protocols I use R, but sometimes I use Python. Usually, the Python code is used directly in the RNotebook using the reticulate package. In these instances, I do my best to detail my choice for one vs. the other, and what I am doing.
 
-### Dry lab protocols quick links <!-- omit in toc -->
+### Quick links <!-- omit in toc -->
 
 - [Related to Published Data](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToPublishedData)
   - [Retrieve array data from GEO and do a survival analysis](/assets/getGeoDataForSurvivalAnalysis.nb.html)
