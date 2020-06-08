@@ -31,11 +31,8 @@ Descriptive protocols for different types of wet-lab experiments. PDF versions o
   - [Preparing homemade SPRI/Ampure beads](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToNextGenSequencing/preparingSpriBeads.md)
   - [RNA profiling from total polysomes](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToNextGenSequencing/polysomeProfilingRna.md)
   - [RBP interaction profiling with CLIP](https://github.com/chrishuges/wetLabProtocols/blob/master/relatedToNextGenSequencing/meClipRbpInteractionProfiling.md)
-- [Troubleshooting](#troubleshooting)
 
 <hr style="height:6pt; visibility:hidden;" />
-
-### Wet lab protocols troubleshooting
 
 While these protocols have been validated to work in my hands, use at your own risk. If you have any issues or notice errors in anything that you find here, feel free to make a post in the wet lab protocols [Issues](https://github.com/chrishuges/wetLabProtocols/issues) and I will do my best to address it.
 
@@ -53,10 +50,7 @@ In most of these protocols I use R, but sometimes I use Python. Usually, the Pyt
   - [Retrieve array data from GEO and do a survival analysis](/assets/getGeoDataForSurvivalAnalysis.nb.html)
 - [Related to Proteomics](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToProteomics)
 - [Related to Next Generation Sequencing](https://github.com/chrishuges/wetLabProtocols/tree/master/relatedToNextGenSequencing)
-- [Troubleshooting](#troubleshooting)
 
 <hr style="height:6pt; visibility:hidden;" />
-
-### Dry lab protocols troubleshooting
 
 While these protocols have been validated to work in my hands, use at your own risk. If you have any issues or notice errors in anything that you find here, feel free to make a post in the [Issues](https://github.com/chrishuges/dryLabProtocols/issues) and I will do my best to address it.
