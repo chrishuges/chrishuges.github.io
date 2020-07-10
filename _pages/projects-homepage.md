@@ -13,6 +13,7 @@ This page contains information about projects I am currently working on. Please 
 
 - [Sorensen lab](https://github.com/chrishuges/wetLabProtocols/tree/master/sorensenLab)
   - [Related to YBX1](https://github.com/chrishuges/projectsWorkspace/tree/master/sorensenLab/relatedToYbx1)
+  - [Related to SP3 PRD](https://github.com/chrishuges/projectsWorkspace/tree/master/sorensenLab/relatedToSp3Prd)
 - [Morin lab](https://github.com/chrishuges/wetLabProtocols/tree/master/morinLab)
 - [Troubleshooting](#troubleshooting)
 
